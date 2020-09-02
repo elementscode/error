@@ -1,0 +1,10 @@
+.elements/
+node_modules/
+.DS_Store
+package-lock.json
+dist/
+bin/
+tmp
+packages
+!test/**/*
+notes/
