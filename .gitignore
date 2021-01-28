@@ -8,3 +8,4 @@ tmp
 packages
 !test/**/*
 notes/
+installed.json

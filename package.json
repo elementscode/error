@@ -1,11 +1,11 @@
 {
   "name": "@elements/error",
-  "description": "Advanced server and browser error classes.",
-  "version": "0.0.0",
-  "license": "SEE LICENSE IN LICENSE",
+  "description": "Error classes used by elements applications.",
+  "version": "1.0.0-beta.1",
+  "license": "MIT",
   "engines": {},
   "dependencies": {
-    "@elements/json": "0.0.0"
+    "@elements/json": "1.0.0-beta.1"
   },
   "devDependencies": {
     "@types/node": "latest",
