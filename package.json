@@ -1,11 +1,11 @@
 {
   "name": "@elements/error",
   "description": "Error classes used by elements applications.",
-  "version": "1.0.0-alpha.109",
+  "version": "1.0.0-alpha.110",
   "license": "MIT",
   "engines": {},
   "dependencies": {
-    "@elements/json": "1.0.0-alpha.109"
+    "@elements/json": "1.0.0-alpha.110"
   },
   "devDependencies": {
     "@types/node": "latest",
